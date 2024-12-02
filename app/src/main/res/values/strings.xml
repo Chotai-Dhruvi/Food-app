@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Food App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_category_meal">Category : Name</string>
+    <string name="str_location_meal">Location : Name</string>
+    <string name="str_instructions_meal">Instructions</string>
+    <string name="str_detailed_instructions_meal">Detailed Instructions</string>
+    <string name="str_categories_frag">Categories</string>
+    <string name="str_count_of_fav_meal">Count of Favorites Meal</string>
+    <string name="str_what_would_you_like_to_eat">What would you like to eat?</string>
+    <string name="str_home">Home</string>
+    <string name="str_over_popular_items">Over Popular Items</string>
+    <string name="str_categories_home_Frag">Categories</string>
+    <string name="str_categories_item">Beef</string>
+    <string name="str_favorite_item">beef</string>
+</resources>
